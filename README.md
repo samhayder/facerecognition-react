@@ -30,7 +30,7 @@ npm run build
 ### Credit
 
 ```bash
-#Logo icon: https://www.flaticon.com/free-icon/chip_897219?term=brain&page=1&position=4
+#Logo icon: (https://www.flaticon.com/free-icon/chip_897219?term=brain&page=1&position=4)
 
 #Tilt.js: https://www.npmjs.com/package/react-tilt
 
