@@ -29,12 +29,13 @@ npm run build
 
 ### Credit
 
-```bash
-#Logo icon: {https://www.flaticon.com/free-icon/chip_897219?term=brain&page=1&position=4}
+# Logo icon: https://www.flaticon.com/free-icon/chip_897219?term=brain&page=1&position=4
 
-#Tilt.js: https://www.npmjs.com/package/react-tilt
+# Tilt.js: https://www.npmjs.com/package/react-tilt
 
-#Particles.js: https://www.npmjs.com/package/react-particles-js
+# Particles.js: https://www.npmjs.com/package/react-particles-js
 
-#Tachyons css: https://tachyons.io/docs/elements/links/
-```
+# Tachyons css: https://tachyons.io/docs/elements/links/
+
+# API: https://www.clarifai.com/
+
