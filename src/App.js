@@ -168,7 +168,7 @@ class App extends Component {
                   onRouteChange={this.onRouteChange}
                 />
             )
-        }
+        } 
       </div>
     );
   }
